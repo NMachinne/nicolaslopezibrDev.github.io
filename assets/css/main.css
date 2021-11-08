@@ -1812,7 +1812,7 @@
 			line-height: 2.75em;
 			pointer-events: none;
 			position: absolute;
-			right: 0;
+			left: 0;
 			text-align: center;
 			top: 0;
 			width: 2.75em;
@@ -2550,7 +2550,7 @@
 
 	#wrapper {
 		background: #fff;
-		padding-right: 23em;
+		padding-left: 23em;
 	}
 
 /* Main */
@@ -2641,7 +2641,7 @@
 		/* Wrapper */
 
 			#wrapper {
-				padding-right: 21em;
+				padding-left: 21em;
 			}
 
 		/* Main */
@@ -2671,7 +2671,7 @@
 		/* Wrapper */
 
 			#wrapper {
-				padding-right: 20em;
+				padding-left: 20em;
 			}
 
 	}
