@@ -1568,7 +1568,10 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #4acaa8 !important;
+			color: #ffffff !important;
+			a::before {
+				width: 100%;
+			}
 		}
 
 	strong, b {
