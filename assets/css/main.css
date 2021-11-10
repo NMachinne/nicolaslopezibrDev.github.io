@@ -2537,7 +2537,7 @@
 					text-decoration: none;
 				}
 
-					#header > nav ul li a.active {
+					#header > nav ul li {
 						background: #fff;
 						color: #5c8bd6 !important;
 					}
